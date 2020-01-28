@@ -10,7 +10,7 @@
 - xampp/htdocs a zipin icindeki php dosyasındaki her seyi koy
 - terminalden "react-native run-android" diyince calısması lazım, google ile alakalı bir error verirse tekrar aynı commandi yaz, ikincisinde calısır.
 
-# Not:
+## Not:
 - google login calıstıramıyor olması lazım onu calıstırmak icin yapılması gereken ekstra seyler var onlarla hic ugrasma cunku ilerde işine yarıcak bişey deil
 - android studio emulatorunda calıstırıyorsan facebook login de calısmayabilir
 
